@@ -1,0 +1,9 @@
+^c005斯卡拉布虫群^c145
+
+
+	斯卡拉布虫群是由成千上万只巴掌大小的飞虫组成的甲虫风暴。
+	密集的嗡鸣声令人心惊肉跳，它们能够在短短数秒内将一头大型野兽啃食得只剩白骨，
+	大范围火焰法术是克制虫群最有效的武器。
+
+^c005特殊能力^c145: 虫群蜂拥
+^c005常见变种^c145: $$SuicideSwarm5$$, $$SuicideSwarm1$$, $$SuicideSwarm2$$, $$SuicideSwarm6$$, $$SuicideSwarm7$$, $$SuicideSwarm3$$, $$SuicideSwarm4$$ (如图所示), $$SuicideSwarm8$$

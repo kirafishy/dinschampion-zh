@@ -1,0 +1,10 @@
+^c005丧尸恶魔大姐头^c145
+
+
+	丧尸恶魔大姐头像丧尸小恶魔一样不断释放着剧毒毒气。
+	她们依旧手持重弩，但如今掌握了连环齐射的绝技，
+	能在瞬息之间倾泻出多支淬毒弩箭，覆盖大片区域。
+
+^c005特殊能力^c145: 剧毒瓦斯、连环弩射、闪烁瞬移
+^c005偏好生态^c145: 热带雨林
+^c005常见变种^c145: $$ZombieImpBigSister7$$, $$ZombieImpBigSister1$$ (如图所示), $$ZombieImpBigSister5$$, $$ZombieImpBigSister2$$, $$ZombieImpBigSister6$$, $$ZombieImpBigSister3$$, $$ZombieImpBigSister4$$, $$ZombieImpBigSister8$$

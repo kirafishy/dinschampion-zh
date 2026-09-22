@@ -1,0 +1,11 @@
+^c005黑暗精灵暗牧^c145
+
+
+	黑暗牧师全心侍奉着深渊邪神。他们的神明严令他们
+	向敌人降下虚弱与腐蚀的恶毒诅咒，以此削弱生灵的力量。
+	在战场上，黑暗牧师擅长利用诅咒折磨猎物，
+	并用暗影魔法抽取凡人的生命，转化为维持邪恶信仰的源泉。
+
+^c005特殊能力^c145: 邪秽飞矢、生命汲取、能量燃烧、虚弱诅咒
+^c005偏好生态^c145: 地下地牢
+^c005常见变种^c145: $$DarkElfDarkPriest1$$ (如图所示), $$DarkElfDarkPriest3$$, $$DarkElfDarkPriest5$$, $$DarkElfDarkPriest4$$, $$DarkElfDarkPriest2$$, $$DarkElfDarkPriest6$$, $$DarkElfDarkPriest7$$, $$DarkElfDarkPriest8$$

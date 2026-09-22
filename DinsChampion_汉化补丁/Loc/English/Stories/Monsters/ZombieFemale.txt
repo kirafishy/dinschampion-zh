@@ -1,0 +1,11 @@
+^c005女性丧尸^c145
+
+
+	黑暗精灵曾被失控丧尸那无可阻挡的毁灭性力量所深深吸引，
+	并渴望将其完全控制与大幅强化。
+	女性丧尸在死后同样被邪秽死灵能量严重异化，
+	它们行动虽看似缓慢，但一旦锁定活人便会不知疲倦地持续追踪，
+	用坚硬冰冷的腐烂双爪将猎物生生撕碎。
+
+^c005特殊能力^c145: 隐匿潜伏、诡异疾速
+^c005常见变种^c145: $$ZombieHumanFemale2$$, $$ZombieHumanFemale6$$, $$ZombieHumanFemale3$$, $$ZombieHumanFemale7$$, $$ZombieHumanFemale8$$, $$ZombieHumanFemale1$$ (如图所示), $$ZombieHumanFemale4$$, $$ZombieHumanFemale5$$

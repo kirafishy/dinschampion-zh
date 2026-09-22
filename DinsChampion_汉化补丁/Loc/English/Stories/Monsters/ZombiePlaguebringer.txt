@@ -1,0 +1,10 @@
+^c005丧尸瘟疫散播者^c145
+
+
+	丧尸瘟疫散播者完全对得起其散播死亡的恶名。
+	如今的它们比生前更加恶毒：它们不再孵化相对无害的普通幼虫，
+	而是直接在体内催生并喷射出具有强烈感染性的小型丧尸寄生体。
+
+^c005特殊能力^c145: 幼体寄生、瘟疫飞弹、死后寄生
+^c005偏好生态^c145: 剧毒荒原
+^c005常见变种^c145: $$ZombiePlaguebringer1$$ (如图所示), $$ZombiePlaguebringer2$$, $$ZombiePlaguebringer6$$, $$ZombiePlaguebringer7$$, $$ZombiePlaguebringer3$$, $$ZombiePlaguebringer4$$, $$ZombiePlaguebringer5$$, $$ZombiePlaguebringer8$$

@@ -1,0 +1,9 @@
+^c005丧尸爆裂虫^c145
+
+
+	你或许会以为丧尸爆裂虫在死后失去了自爆能力反而变安全了，但你大错特错。
+	丧尸爆裂虫死后体内依然积蓄着不稳定的剧毒物质，
+	一旦受到致命打击，其残躯便会化作一团扩散极广的致命剧毒毒云。
+
+^c005特殊能力^c145: 寄生体生成
+^c005常见变种^c145: $$ZombieSuicide5$$, $$ZombieSuicide1$$ (如图所示), $$ZombieSuicide2$$, $$ZombieSuicide6$$, $$ZombieSuicide7$$, $$ZombieSuicide3$$, $$ZombieSuicide4$$, $$ZombieSuicide8$$

@@ -1,0 +1,11 @@
+^c005男性丧尸^c145
+
+
+	黑暗精灵曾被失控丧尸那无可阻挡的毁灭性力量所深深吸引，
+	并渴望将其完全控制与大幅强化。
+	当他们将支配法术编织进丧尸死尸体内时，邪恶的实验彻底失控了。
+	如今这些漫无目的游荡的男性丧尸拥有厚重的死肉护甲，
+	对寒冷与闪电有着极高抗性，且周身散发着致病毒气。
+
+^c005特殊能力^c145: 隐匿潜伏、诡异疾速
+^c005常见变种^c145: $$ZombieHumanMale2$$, $$ZombieHumanMale6$$, $$ZombieHumanMale3$$, $$ZombieHumanMale7$$, $$ZombieHumanMale8$$, $$ZombieHumanMale1$$ (如图所示), $$ZombieHumanMale4$$, $$ZombieHumanMale5$$

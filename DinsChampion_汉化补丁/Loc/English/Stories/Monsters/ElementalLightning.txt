@@ -1,0 +1,9 @@
+^c005雷元素领主^c145
+
+
+	雷元素领主是暴躁狂雷与电弧的聚合体，移动如电光石火。
+	它们在战场上呼啸穿梭，不断向四周释放连锁电弧与狂雷爆破，
+	能在瞬间摧毁成群的武装战士。
+
+^c005特殊能力^c145: 狂雷闪电、炽光耀目、死后虫群
+^c005常见变种^c145: $$LightningElemental1$$ (如图所示), $$LightningElemental5$$, $$LightningElemental2$$, $$LightningElemental3$$, $$LightningElemental4$$, $$LightningElemental6$$, $$LightningElemental7$$

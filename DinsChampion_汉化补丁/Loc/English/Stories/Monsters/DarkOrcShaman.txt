@@ -1,0 +1,9 @@
+^c005黑兽人萨满^c145
+
+
+	黑兽人萨满沟通着古老而扭曲的先祖图腾与元素之力。
+	它们擅长在后方施展烈焰冲击与强化光环，大幅鼓舞同伴的战斗力，
+	并在必要时引发强烈的地震震撼战场，令敌人站立不稳而露出致命破绽。
+
+^c005特殊能力^c145: 衰弱诅咒、剧毒飞箭、元素抗性
+^c005常见变种^c145: $$DarkOrcShaman1$$ (如图所示), $$DarkOrcShaman2$$, $$DarkOrcShaman6$$, $$DarkOrcShaman3$$, $$DarkOrcShaman5$$, $$DarkOrcShaman4$$, $$DarkOrcShaman7$$, $$DarkOrcShaman8$$

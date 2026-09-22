@@ -1,0 +1,10 @@
+^c005火元素领主^c145
+
+
+	火元素领主是从烈焰位面凝聚而成的纯粹活体火焰。
+	它们所过之处草木成灰、岩石融化为熔浆，
+	普通武器极难伤及它们没有实体的烈焰身躯，只有冰霜方能克制其威力。
+
+^c005特殊能力^c145: 炽热火球、烈焰之火、火焰抗性、炽光耀目
+^c005偏好生态^c145: 地狱烈焰
+^c005常见变种^c145: $$FireElemental1$$ (如图所示), $$FireElemental5$$, $$FireElemental2$$, $$FireElemental3$$, $$FireElemental4$$, $$FireElemental6$$, $$FireElemental7$$

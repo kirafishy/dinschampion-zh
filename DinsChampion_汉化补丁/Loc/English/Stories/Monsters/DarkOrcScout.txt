@@ -1,0 +1,9 @@
+^c005黑兽人斥候^c145
+
+
+	黑兽人斥候行踪诡秘，专门负责为黑兽人军团刺探军情与伏击落单者。
+	虽然体型略小于狂战士，但它们的速度极快，并且精通背刺突袭。
+	在荒野和地牢中遭遇它们时，稍有迟疑就会招来整队黑兽人援军。
+
+^c005特殊能力^c145: 铁蒺藜陷阱、潜行突袭
+^c005常见变种^c145: $$DarkOrcScout1$$ (如图所示), $$DarkOrcScout2$$, $$DarkOrcScout6$$, $$DarkOrcScout3$$, $$DarkOrcScout5$$, $$DarkOrcScout4$$, $$DarkOrcScout7$$, $$DarkOrcScout8$$

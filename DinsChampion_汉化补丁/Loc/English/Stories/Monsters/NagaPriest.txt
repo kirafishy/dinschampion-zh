@@ -1,0 +1,9 @@
+^c005娜迦祭司^c145
+
+
+	娜迦祭司在娜迦部族中掌管着祭祀与古老强酸魔法。
+	它们擅长从远距离释放酸液法球与大范围强酸喷溅，
+	能在瞬息之间将敌人的护甲与血肉腐蚀殆尽。
+
+^c005特殊能力^c145: 毒素抗性、治愈再生、强酸箭、强酸飞溅
+^c005常见变种^c145: $$NagaPriest8$$, $$NagaPriest1$$, $$NagaPriest2$$, $$NagaPriest6$$, $$NagaPriest3$$, $$NagaPriest7$$, $$NagaPriest4$$ (如图所示), $$NagaPriest5$$

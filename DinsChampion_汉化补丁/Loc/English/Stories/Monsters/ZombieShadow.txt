@@ -1,0 +1,10 @@
+^c005丧尸暗影怪^c145
+
+
+	丧尸暗影怪依旧如生前一般来去无踪、悄无声息。
+	然而其暗影之触比以往更加恶毒——如今它的每一次触碰
+	不仅能吸取体温，更能直接大口吞噬并榨干受害者的生命力。
+
+^c005特殊能力^c145: 完全隐形、法力燃烧、生命汲取、惊悚尖叫
+^c005偏好生态^c145: 地下地牢
+^c005常见变种^c145: $$ZombieShadow1$$ (如图所示), $$ZombieShadow2$$, $$ZombieShadow3$$, $$ZombieShadow4$$, $$ZombieShadow6$$, $$ZombieShadow5$$, $$ZombieShadow7$$, $$ZombieShadow8$$

@@ -1,0 +1,9 @@
+^c005至高丧尸领主^c145
+
+
+	至高丧尸领主完美继承了兽人的无穷蛮力与精灵的卓越智慧。
+	它们是不死族群中最为强大且令人畏惧的终极君主，
+	极少有凡人勇士能在遭遇丧尸领主后活着归来。
+
+^c005特殊能力^c145: 依种类而异
+^c005常见变种^c145: $$ZombielordPlaguelord$$ (如图所示), $$ZombielordDarklord$$, $$ZombielordSavagelord$$, $$ZombielordMutantlord$$, $$ZombielordDeathlord$$, $$ZombielordBattlelord$$

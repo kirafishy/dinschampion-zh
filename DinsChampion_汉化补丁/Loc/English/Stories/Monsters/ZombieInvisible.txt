@@ -1,0 +1,9 @@
+^c005丧尸暗行兽^c145
+
+
+	丧尸暗行兽依然是极度老练的致命伏击刺客。
+	它们不仅拥有隐形能力，还掌握了释放毒雾攻击的新招式，
+	堪称世上最具感染性与杀伤力的危险丧尸之一。
+
+^c005特殊能力^c145: 完全隐形、潜行突袭、耐力燃烧、毒素浓雾
+^c005常见变种^c145: $$ZombieInvisible1$$ (如图所示), $$ZombieInvisible6$$, $$ZombieInvisible2$$, $$ZombieInvisible3$$, $$ZombieInvisible4$$, $$ZombieInvisible7$$, $$ZombieInvisible5$$, $$ZombieInvisible8$$

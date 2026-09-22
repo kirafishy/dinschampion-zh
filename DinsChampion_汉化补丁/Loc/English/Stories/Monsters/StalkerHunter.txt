@@ -1,0 +1,10 @@
+^c005潜行猎手^c145
+
+
+	潜行猎手是潜行者群体中最为老练的头目。
+	它们不仅狡黠多智、耐力过人，更擅长在猎物逃跑的路线上布设陷阱，
+	是荒野中每一个独行旅者最危险的噩梦。
+
+^c005特殊能力^c145: 重度创伤、致命手里剑
+^c005偏好生态^c145: 深邃森林
+^c005常见变种^c145: $$StalkerHunter6$$, $$StalkerHunter4$$, $$StalkerHunter1$$ (如图所示), $$StalkerHunter5$$, $$StalkerHunter2$$, $$StalkerHunter7$$, $$StalkerHunter3$$, $$StalkerHunter8$$

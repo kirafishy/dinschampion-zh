@@ -1,0 +1,9 @@
+^c005丧尸巨蝠^c145
+
+
+	丧尸巨蝠体内积蓄的毒液量远远超越了其生前的水准。
+	所有过剩的致命毒素会在其被击杀的一瞬间喷涌而出，
+	化为一片经久不散的致死毒气，与击杀它的敌人玉石俱焚。
+
+^c005特殊能力^c145: 毒素撕咬、剧毒毒气、毒素抗性
+^c005常见变种^c145: $$ZombieWampir1$$ (如图所示), $$ZombieWampir3$$, $$ZombieWampir6$$, $$ZombieWampir4$$, $$ZombieWampir5$$, $$ZombieWampir7$$, $$ZombieWampir2$$, $$ZombieWampir8$$

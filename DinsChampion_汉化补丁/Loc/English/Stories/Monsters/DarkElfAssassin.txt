@@ -1,0 +1,11 @@
+^c005黑暗精灵刺客^c145
+
+
+	只需眨眼片刻，你就会彻底漏掉身材矮小而狡诈的黑暗精灵刺客。
+	他们行动如风，出招迅疾致命，往往在被猎物察觉之前便已割喉。
+	他们既独来独往，也会结伙作案——只要赏金足够丰厚；
+	杀戮是他们的竞技也是荣耀，无论是为了生意还是单纯为了取乐。
+
+^c005特殊能力^c145: 潜行匿踪、淬毒穿刺、背后背刺、毒素抗性
+^c005偏好生态^c145: 地下地牢
+^c005常见变种^c145: $$DarkElfAssassin1$$ (如图所示), $$DarkElfAssassin6$$, $$DarkElfAssassin7$$, $$DarkElfAssassin4$$, $$DarkElfAssassin2$$, $$DarkElfAssassin3$$, $$DarkElfAssassin5$$, $$DarkElfAssassin8$$

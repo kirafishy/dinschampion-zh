@@ -1,0 +1,9 @@
+^c005强角龙兽^c145
+
+
+	强角龙兽是体型极其庞大的古老植食性巨兽，生性暴烈易怒。
+	因为头上那对巍峨华丽的巨角，它们常年受到猎人的围捕猎杀；
+	但任何低估其怒火的猎人，最终都会被这对巨角无情贯穿顶飞。
+
+^c005特殊能力^c145: 极速冲锋
+^c005常见变种^c145: $$Styrac$$ (如图所示), $$ThunderingStyrac$$, $$Styrac6$$, $$ChargingStyrac$$, $$RammingStyrac$$, $$Styrac7$$, $$Styrac8$$, $$StampedingStyrac$$

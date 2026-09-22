@@ -1,0 +1,9 @@
+^c005丧尸巨蝎^c145
+
+
+	丧尸巨蝎虽然并未变异出花哨的新招式，
+	但在死后其体型变得更为硕大，生命值与外骨骼护甲得到了质的飞跃，
+	是一座不折不扣移动的剧毒重装堡垒。
+
+^c005特殊能力^c145: 致命尾刺、毒素抗性
+^c005常见变种^c145: $$ZombieScorpion1$$ (如图所示), $$ZombieScorpion2$$, $$ZombieScorpion3$$, $$ZombieScorpion4$$, $$ZombieScorpion5$$, $$ZombieScorpion6$$, $$ZombieScorpion7$$, $$ZombieScorpion8$$

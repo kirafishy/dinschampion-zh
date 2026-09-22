@@ -1,0 +1,10 @@
+^c005小恶魔大姐头^c145
+
+
+	小恶魔大姐头是小恶魔群体中更加精明凶狠的头目。
+	她们手持十字弩，在后方远程提供致命的火力掩护，
+	不仅弩箭精准狠辣，更精通使用催泪剧毒瓦斯驱散靠近的近战敌人。
+
+^c005特殊能力^c145: 十字弩射击
+^c005偏好生态^c145: 热带雨林
+^c005常见变种^c145: $$ImpBigSister7$$, $$ImpBigSister1$$ (如图所示), $$ImpBigSister5$$, $$ImpBigSister2$$, $$ImpBigSister6$$, $$ImpBigSister3$$, $$ImpBigSister4$$, $$ImpBigSister8$$

@@ -1,0 +1,9 @@
+^c005骷髅武士^c145
+
+
+	骷髅武士身着生前的锈蚀铠甲，手握斑驳长剑与盾牌。
+	相较于普通骷髅，它们保留了相当程度的盾牌格挡战技，
+	通常成建制结阵推进，极具压迫感。
+
+^c005特殊能力^c145: 隐匿潜伏
+^c005常见变种^c145: $$SkeletonWarrior1$$, $$SkeletonWarrior2$$, $$SkeletonWarrior3$$ (如图所示), $$SkeletonWarrior4$$, $$SkeletonWarrior5$$, $$SkeletonWarrior6$$, $$SkeletonWarrior7$$, $$SkeletonWarrior8$$

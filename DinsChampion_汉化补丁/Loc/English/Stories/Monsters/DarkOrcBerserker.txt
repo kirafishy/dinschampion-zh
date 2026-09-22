@@ -1,0 +1,10 @@
+^c005黑兽人狂战士^c145
+
+
+	黑兽人狂战士是兽人族群中最为凶蛮暴戾的嗜血恶徒。
+	它们身躯庞大，浑身覆满厚实的坚韧黑皮，
+	一旦陷入狂暴状态，便会不顾一切地挥舞重兵器发起冲锋。
+	任何阻挡在它们冲锋路径上的生灵都会被无情碾碎成肉泥。
+
+^c005特殊能力^c145: 挑衅嘲讽、狂暴旋风、狂怒狂暴
+^c005常见变种^c145: $$DarkOrcBerserker1$$ (如图所示), $$DarkOrcBerserker2$$, $$DarkOrcBerserker6$$, $$DarkOrcBerserker3$$, $$DarkOrcBerserker5$$, $$DarkOrcBerserker4$$, $$DarkOrcBerserker7$$, $$DarkOrcBerserker8$$

@@ -1,0 +1,10 @@
+^c005丧尸潜行者^c145
+
+
+	丧尸潜行者除了杀戮与狩猎的本能外已彻底丧失了一切理智。
+	它们速度更快、攻势更猛；如果初次扑击失手，
+	它们会发出呼唤召唤更多周围的猎手形成合围之势。
+
+^c005特殊能力^c145: 重度创伤、临死哀鸣、斩断脚筋
+^c005偏好生态^c145: 深邃森林
+^c005常见变种^c145: $$ZombieStalker6$$, $$ZombieStalker4$$, $$ZombieStalker1$$ (如图所示), $$ZombieStalker5$$, $$ZombieStalker2$$, $$ZombieStalker7$$, $$ZombieStalker3$$, $$ZombieStalker8$$

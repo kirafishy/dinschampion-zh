@@ -1,0 +1,10 @@
+^c005瘟疫散播者^c145
+
+
+	瘟疫散播者名副其实，是行走的活体疾病源泉。
+	它们肥大臃肿的身躯内寄生着成千上万的腐化毒虫与剧毒幼体，
+	在战斗中会源源不断地产卵孵化幼虫，用恶毒的瘟疫毒雾侵蚀一切生机。
+
+^c005特殊能力^c145: 产卵幼虫、瘟疫飞弹、死后剧毒
+^c005偏好生态^c145: 剧毒荒原
+^c005常见变种^c145: $$Plaguebringer1$$ (如图所示), $$Plaguebringer2$$, $$Plaguebringer6$$, $$Plaguebringer7$$, $$Plaguebringer3$$, $$Plaguebringer4$$, $$Plaguebringer5$$, $$Plaguebringer8$$

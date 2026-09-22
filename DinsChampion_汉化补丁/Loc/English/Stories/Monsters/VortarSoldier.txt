@@ -1,0 +1,9 @@
+^c005沃塔尔武士^c145
+
+
+	头顶长角的沃塔尔武士在战斗中能够令其狰狞利爪燃起熊熊烈火。
+	它们冷酷残忍且极度记仇，在自然界中毫无天敌，
+	通常被视作沃塔尔军团中最坚不可摧的前锋死士。
+
+^c005特殊能力^c145: $$FlamingClaws$$
+^c005常见变种^c145: $$VortarSoldier1$$ (如图所示), $$VortarSoldier2$$, $$VortarSoldier4$$, $$VortarSoldier5$$, $$VortarSoldier6$$, $$VortarSoldier8$$, $$VortarSoldier7$$, $$VortarSoldier3$$

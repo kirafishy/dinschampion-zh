@@ -1,0 +1,10 @@
+^c005丧尸四臂怪^c145
+
+
+	丧尸四臂怪彻底丧失了仅存的微薄智慧，不再使用复杂的战技；
+	然而作为代价，其肉身生命值与护甲得到了骇人听闻的暴涨！
+	四条粗壮的手臂如同狂暴铁锤般接连轰击，纯粹的蛮力足以碾碎钢铁。
+
+^c005特殊能力^c145: 火焰抗性
+^c005偏好生态^c145: 地狱烈焰
+^c005常见变种^c145: $$ZombieFourArms1$$ (如图所示), $$ZombieFourArms5$$, $$ZombieFourArms6$$, $$ZombieFourArms2$$, $$ZombieFourArms3$$, $$ZombieFourArms4$$, $$ZombieFourArms7$$, $$ZombieFourArms8$$

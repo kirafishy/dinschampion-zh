@@ -1,0 +1,12 @@
+^c005丧尸黑暗精灵^c145
+
+
+	丧尸黑暗精灵是令人胆寒的扭曲产物！
+	丧尸寄生虫（Zombasite）将它们彻底异化，
+	使其同时兼具黑暗精灵刺客、暗牧与法师的全部致命能力。
+	它们不仅能隐匿身形发起背刺，更能施展暗影法术与恶毒诅咒，
+	堪称地下世界中最致命的丧尸强敌之一。
+
+^c005特殊能力^c145: 潜行匿踪、邪秽飞矢、生命汲取、能量燃烧、炽热火球、冰雪风暴
+^c005偏好生态^c145: 地下地牢
+^c005常见变种^c145: $$ZombieDarkElfWarrior2$$, $$ZombieDarkElfWarrior6$$, $$ZombieDarkElfWarrior3$$, $$ZombieDarkElfWarrior7$$, $$ZombieDarkElfWarrior8$$, $$ZombieDarkElfWarrior1$$ (如图所示), $$ZombieDarkElfWarrior4$$, $$ZombieDarkElfWarrior5$$

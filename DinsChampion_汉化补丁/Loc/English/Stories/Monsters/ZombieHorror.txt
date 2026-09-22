@@ -1,0 +1,9 @@
+^c005丧尸恐惧魔^c145
+
+
+	丧尸恐惧魔比其活体同类更加令人毛骨悚然。
+	它们在完整保留原本强大的元素魔法的同时，
+	还觉醒了从周围泥土中唤醒并复生战死亡者的恐怖死灵招魂能力。
+
+^c005特殊能力^c145: 闪烁瞬移、炽热火球、冰霜碎片、狂雷闪电、剧毒飞箭、冰雪风暴、烈焰燃爆、剧毒毒气、复苏死尸
+^c005常见变种^c145: $$ZombieHorror6$$, $$ZombieHorror3$$, $$ZombieHorror2$$, $$ZombieHorror8$$, $$ZombieHorror7$$, $$ZombieHorror4$$, $$ZombieHorror1$$ (如图所示), $$ZombieHorror5$$

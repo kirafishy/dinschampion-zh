@@ -1,0 +1,9 @@
+^c005丧尸狂暴塔格^c145
+
+
+	丧尸狂暴塔格变得更加暴躁而不稳定。
+	丧尸寄生虫将其内心深处的恐惧与狂乱推向了极致，
+	使其比生前更加频繁地直接进入狂怒暴走状态，攻势如狂风骤雨。
+
+^c005特殊能力^c145: 狂怒狂暴、恐惧光环
+^c005常见变种^c145: $$ZombieFrenzy6$$, $$ZombieFrenzy1$$ (如图所示), $$ZombieFrenzy2$$, $$ZombieFrenzy3$$, $$ZombieFrenzy4$$, $$ZombieFrenzy5$$, $$ZombieFrenzy7$$, $$ZombieFrenzy8$$

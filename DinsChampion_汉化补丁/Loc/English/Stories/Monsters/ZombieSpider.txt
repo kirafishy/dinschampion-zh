@@ -1,0 +1,9 @@
+^c005丧尸巨蛛^c145
+
+
+	令人毛骨悚然的丧尸巨型蜘蛛虽然失去了生前的高高跳跃能力，
+	却获得了在虚实之间短距相位瞬移的诡异特质。
+	它们拥有更强的护甲与寒冰抗性，蛛网也变得更加难以挣脱。
+
+^c005特殊能力^c145: 剧毒蛛网、相位变换
+^c005常见变种^c145: $$ZombieSpider1$$, $$ZombieSpider2$$, $$ZombieSpider3$$, $$ZombieSpider4$$, $$ZombieSpider5$$, $$ZombieSpider6$$, $$ZombieSpider7$$ (如图所示), $$ZombieSpider8$$

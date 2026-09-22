@@ -1,0 +1,10 @@
+^c005丧尸掷火者^c145
+
+
+	丧尸掷火者依然偏爱使用烈焰火油发动攻击，
+	但在丧尸化后其攻击欲望变得更加极端狂暴，
+	常常一口气同时掷出多枚燃烧油罐，在战场上瞬间铺开无处可逃的火海。
+
+^c005特殊能力^c145: 齐射火油
+^c005偏好生态^c145: 地狱烈焰
+^c005常见变种^c145: $$ZombieFireThrower6$$, $$ZombieFireThrower2$$, $$ZombieFireThrower1$$ (如图所示), $$ZombieFireThrower4$$, $$ZombieFireThrower3$$, $$ZombieFireThrower5$$, $$ZombieFireThrower7$$, $$ZombieFireThrower8$$

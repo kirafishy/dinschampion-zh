@@ -1,0 +1,10 @@
+^c005丧尸拉格纳犬^c145
+
+
+	丧尸拉格纳犬如今已化作贪得无厌的不死魔兽。
+	它们会疯狂吞食被击杀的任何敌人，
+	并且在一种罕见的畸变异化下，其奔跑撕咬的速度竟然比生前还要快上三分！
+	成群的丧尸魔犬能在极短时间内将一整支侦察队撕成碎片。
+
+^c005特殊能力^c145: 警戒感官、吞食尸骨
+^c005常见变种^c145: $$ZombieDemonDog1$$ (如图所示), $$ZombieDemonDog2$$, $$ZombieDemonDog5$$, $$ZombieDemonDog6$$, $$ZombieDemonDog4$$, $$ZombieDemonDog3$$, $$ZombieDemonDog7$$, $$ZombieDemonDog8$$

@@ -1,0 +1,10 @@
+^c005掷火狂^c145
+
+
+	掷火狂是狂热沉迷于烈焰爆燃的狂暴徒。
+	它们背负着装满易燃油脂的陶罐，在远距离疯狂向敌人投掷燃烧火油。
+	火油着地后会化作持续燃烧的火海，极大限制敌人的走位空间。
+
+^c005特殊能力^c145: 燃烧火油、火焰抗性
+^c005偏好生态^c145: 地狱烈焰
+^c005常见变种^c145: $$FireThrower6$$, $$FireThrower2$$, $$FireThrower1$$ (如图所示), $$FireThrower4$$, $$FireThrower3$$, $$FireThrower5$$, $$FireThrower7$$, $$FireThrower8$$

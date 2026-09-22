@@ -1,0 +1,9 @@
+^c005散播者幼虫^c145
+
+
+	散播者幼虫是从瘟疫散播者体内迅速孵化出的小型肉蛆。
+	虽然个头细小且生命脆弱，但数量极多，一旦被其咬伤便会迅速感染恶疾，
+	若不及时清理，它们很快就会蜂拥而上将猎物彻底淹没。
+
+^c005特殊能力^c145: 无特殊能力
+^c005常见变种^c145: $$PlaguebringerLarva1$$ (如图所示), $$PlaguebringerLarva2$$, $$PlaguebringerLarva6$$, $$PlaguebringerLarva7$$, $$PlaguebringerLarva3$$, $$PlaguebringerLarva4$$, $$PlaguebringerLarva5$$, $$PlaguebringerLarva8$$

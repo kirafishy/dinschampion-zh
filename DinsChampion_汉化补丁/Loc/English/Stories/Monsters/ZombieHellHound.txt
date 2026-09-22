@@ -1,0 +1,9 @@
+^c005丧尸地狱犬^c145
+
+
+	丧尸地狱犬依旧如生前一般凶残冷酷。
+	它们的火焰抗性在丧尸寄生虫的异化下发生畸变，
+	整具骨架与烂肉常年处于被地狱烈火包裹燃烧的状态，撕咬时附带持续烈火灼烧。
+
+^c005特殊能力^c145: 警戒感官、火焰抗性、烈焰之火
+^c005常见变种^c145: $$ZombieHellHound1$$ (如图所示), $$ZombieHellHound2$$, $$ZombieHellHound4$$, $$ZombieHellHound6$$, $$ZombieHellHound7$$, $$ZombieHellHound3$$, $$ZombieHellHound5$$

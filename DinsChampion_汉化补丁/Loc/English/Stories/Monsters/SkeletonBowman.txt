@@ -1,0 +1,9 @@
+^c005骷髅弓手^c145
+
+
+	骷髅弓手生前是精通射术的射手，即便死后化作森森白骨，
+	其骨骼依然保留着开弓射箭的肌肉记忆与致命精准度。
+	它们在后方接连不断射出的骨箭是前线战士的最大威胁。
+
+^c005特殊能力^c145: 长弓射击
+^c005常见变种^c145: $$SkeletonArcher1$$, $$SkeletonArcher2$$, $$SkeletonArcher3$$ (如图所示), $$SkeletonArcher4$$, $$SkeletonArcher5$$, $$SkeletonArcher6$$, $$SkeletonArcher7$$, $$SkeletonArcher8$$

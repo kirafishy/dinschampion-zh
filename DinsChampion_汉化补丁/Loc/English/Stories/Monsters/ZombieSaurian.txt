@@ -1,0 +1,10 @@
+^c005丧尸蜥蜴人^c145
+
+
+	丧尸蜥蜴人发生了可怕的异变。
+	它们依然保留着强大的生命再生与雷电抗性，
+	并且在变异中获得了如同蛇人般的剧毒撕咬能力，极难被彻底杀死。
+
+^c005特殊能力^c145: 生命恢复、闪电抗性、炽烈吐息
+^c005偏好生态^c145: 因变种而异
+^c005常见变种^c145: $$ZombieSaurian1$$ (如图所示), $$ZombieSaurian2$$, $$ZombieSaurian3$$, $$ZombieSaurian4$$, $$ZombieSaurian5$$, $$ZombieSaurian6$$, $$ZombieSaurian7$$, $$ZombieSaurian8$$

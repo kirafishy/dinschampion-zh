@@ -1,0 +1,9 @@
+^c005沃塔尔术士^c145
+
+
+	沃塔尔术士虽然在同族中身材最为纤瘦，但依然勇于投身近战厮杀。
+	精湛的搏杀技艺与近战走位仅仅是其表象，
+	它们所掌握的恐怖暗影法术才是真正令敌人防线崩溃的致命王牌。
+
+^c005特殊能力^c145: 克拉尔召唤
+^c005常见变种^c145: $$VortarWarlock1$$, $$VortarWarlock2$$, $$VortarWarlock4$$, $$VortarWarlock5$$ (如图所示), $$VortarWarlock6$$, $$VortarWarlock8$$, $$VortarWarlock7$$, $$VortarWarlock3$$, 

@@ -1,0 +1,11 @@
+^c005黑暗精灵法师^c145
+
+
+	黑暗精灵法师不仅精通寒冰与闪电等强大的毁灭魔法，
+	还掌握着致命的短距瞬移技巧。
+	他们能够利用闪烁法术从容避开近战打击，在安全距离倾泻法术狂潮。
+	面对黑暗法师时，绝不能让他们拉开距离，否则将遭受毁灭性的洗礼。
+
+^c005特殊能力^c145: 炽热火球、冰雪风暴、极寒冰片、全魔法抗性
+^c005偏好生态^c145: 地下地牢
+^c005常见变种^c145: $$DarkElfWizard3$$, $$DarkElfWizard1$$ (如图所示), $$DarkElfWizard4$$, $$DarkElfWizard2$$, $$DarkElfWizard5$$, $$DarkElfWizard6$$, $$DarkElfWizard7$$, $$DarkElfWizard8$$

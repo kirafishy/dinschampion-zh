@@ -1,0 +1,10 @@
+^c005蜥蜴人法师^c145
+
+
+	蜥蜴人法师精通沼泽秘术与雷电咒法。
+	它们常年隐匿在芦苇与泥潭深处，引动狂暴的闪电轰击踏入领地的闯入者，
+	并借助强大的再生能力长时间消耗敌人。
+
+^c005特殊能力^c145: 生命恢复、闪电抗性、$$StatusEffectSaurianStrength$$、狂雷闪电
+^c005偏好生态^c145: 因变种而异
+^c005常见变种^c145: $$SaurianMage1$$ (如图所示), $$SaurianMage2$$, $$SaurianMage3$$, $$SaurianMage4$$, $$SaurianMage5$$, $$SaurianMage6$$, $$SaurianMage7$$, $$SaurianMage8$$

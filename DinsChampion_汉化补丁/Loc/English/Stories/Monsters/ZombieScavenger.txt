@@ -1,0 +1,9 @@
+^c005丧尸食腐兽^c145
+
+
+	丧尸食腐兽丝毫没有丧失对新鲜血肉的病态渴望。
+	它们依然尽可能贪婪地吞噬尸肉，
+	而且在死后觉醒了令人心惊肉跳的死灵哀鸣能力，刺耳的尖叫能直接震晕敌人。
+
+^c005特殊能力^c145: 吞食尸骨、空间传送
+^c005常见变种^c145: $$ZombieScavenger6$$, $$ZombieScavenger4$$, $$ZombieScavenger1$$ (如图所示), $$ZombieScavenger2$$, $$ZombieScavenger3$$, $$ZombieScavenger5$$

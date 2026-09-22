@@ -1,0 +1,10 @@
+^c005克拉尔武士^c145
+
+
+	克拉尔武士是克拉尔部族的中坚骨干。
+	它们手持锋利的骨刃或重刃，披挂着天然甲壳与简易护甲，
+	在战斗中展现出如同工蜂般无惧生死的蜂群协作战斗本能。
+
+^c005特殊能力^c145: 烈焰爆发、巨力拍击
+^c005偏好生态^c145: 因变种而异
+^c005常见变种^c145: $$KrallWarrior1$$, $$KrallWarrior2$$, $$KrallWarrior3$$, $$KrallWarrior4$$, $$KrallWarrior5$$ (如图所示), $$KrallWarrior6$$, $$KrallWarrior7$$

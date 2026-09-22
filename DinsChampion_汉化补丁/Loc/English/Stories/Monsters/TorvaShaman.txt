@@ -1,0 +1,10 @@
+^c005托尔瓦萨满^c145
+
+
+	托尔瓦萨满是托尔瓦地精部落中的烈焰法术操纵者。
+	它们精通火焰魔法，不仅能从远距离掷出炽热爆弹，
+	更能大幅增强近战地精随从的火焰伤害，极难应付。
+
+^c005特殊能力^c145: 烈火飞箭、烈焰光环、火焰抗性
+^c005偏好生态^c145: 热带雨林
+^c005常见变种^c145: $$TorvaShaman3$$, $$TorvaShaman2$$, $$TorvaShaman1$$, $$TorvaShaman4$$, $$TorvaShaman5$$ (如图所示), $$TorvaShaman6$$, $$TorvaShaman7$$, $$TorvaShaman8$$

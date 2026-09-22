@@ -1,0 +1,9 @@
+^c005黑兽人术士^c145
+
+
+	黑兽人术士沉迷于黑暗邪恶的禁忌禁术。
+	它们抛弃了萨满的图腾崇拜，转而直接从深渊中汲取腐化能量。
+	黑兽人术士能够发射剧毒与衰弱飞弹，并将受害者的生命力化为己用。
+
+^c005特殊能力^c145: 暗影飞矢、多种恶毒诅咒、召唤恶魔
+^c005常见变种^c145: $$DarkOrcWarlock1$$ (如图所示), $$DarkOrcWarlock2$$, $$DarkOrcWarlock6$$, $$DarkOrcWarlock3$$, $$DarkOrcWarlock5$$, $$DarkOrcWarlock4$$, $$DarkOrcWarlock7$$, $$DarkOrcWarlock8$$

@@ -1,0 +1,9 @@
+^c005沃塔尔劫掠者^c145
+
+
+	沃塔尔劫掠者相较于同族虽然体型略小，但绝不可轻敌。
+	这群狂热的纵火狂徒毫无畏惧，狂热地向四周播撒混乱与烈焰，
+	所到之处皆沦为一片火海焦土。
+
+^c005特殊能力^c145: 火焰抗性
+^c005常见变种^c145: $$VortarRaider1$$, $$VortarRaider2$$, $$VortarRaider4$$ (如图所示), $$VortarRaider5$$, $$VortarRaider6$$, $$VortarRaider8$$, $$VortarRaider7$$, $$VortarRaider3$$
