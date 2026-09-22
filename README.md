@@ -11,7 +11,7 @@ Windows 10 / 11 可直接使用，不需要安装 Python 或其他开发环境�
 
 ## 下载
 
-从 [Releases](https://github.com/kirafishy/dinschampion-zh/releases/latest) 下载 `DinsChampion_汉化补丁_v1.005.zip`。这个压缩包只放在 Release 里，不会出现在仓库文件中。
+从 [Releases](https://github.com/kirafishy/dinschampion-zh/releases/latest) 下载 `DinsChampion-zh-v1.005.zip`。这个压缩包只放在 Release 里，不会出现在仓库文件中。解压后的内容和上面的 `DinsChampion_汉化补丁` 文件夹相同。
 
 不方便下压缩包时，直接使用上面的 `DinsChampion_汉化补丁` 文件夹即可，里面就是解压后的同一套文件。
 
